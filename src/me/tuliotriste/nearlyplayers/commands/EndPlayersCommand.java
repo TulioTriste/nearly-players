@@ -22,7 +22,7 @@ public class EndPlayersCommand implements CommandExecutor {
             commandSender.sendMessage(CC.translate("&cNo console."));
             return true;
         }
-        if (!commandSender.hasPermission("tulio.command.near")) {
+        if (!commandSender.hasPermission("tulio.command.endplaayers")) {
             commandSender.sendMessage(CC.translate("&cNo permissions."));
             return true;
         }

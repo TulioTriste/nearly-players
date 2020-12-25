@@ -1,2 +1,3 @@
 distance-blocks: 50.0
 end-world-name: "world_the_end"
+nether-world-name: "world_nether"
