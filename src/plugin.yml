@@ -1,0 +1,9 @@
+main: me.tuliotriste.nearlyplayers.Main
+name: NearlyPlayers
+version: 1.0-SNAPSHOT
+author: TulioTriste
+commands:
+  near:
+    description: Get a nearly players.
+  endplayers:
+    description: Get a End Players.
